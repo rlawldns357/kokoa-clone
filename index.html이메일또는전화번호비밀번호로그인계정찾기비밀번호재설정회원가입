@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="ko">
+    <head>
+          <meta charset="UTF-8" />
+          <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+          <title>Kokoa Clone - Login</title>
+        <link rel="stylesheet" href="css/reset.css" />
+        <link rel="stylesheet" href="css/styles.css" />
+        <link rel="stylesheet" href="css/login.css" />
+        <link
+                rel="stylesheet"
+                href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+              />
+    </head>
+  <body>
+        <div class="status-bar">
+                <div class="status-bar__column">
+                          <span>9:41</span>
+                </div>div>
+              <div class="status-bar__column">
+                      <i class="fas fa-signal"></i>i>
+                      <i class="fas fa-wifi"></i>i>
+                      <i class="fas fa-battery-full"></i>i>
+              </div>div>
+        </div>div>
+      <div class="login">
+            <i class="fab fa-comment login__logo"></i>i>
+            <h1 class="login__title">KokoaTalk</h1>h1>
+            <form class="login__form" action="friends.html">
+                    <input
+                                class="login__input"
+                                type="email"
+                                placeholder="이메일 또는 전화번호"
+                              />
+                    <input
+                                class="login__input"
+                                type="password"
+                                placeholder="비밀번호"
+                              />
+                    <button class="login__btn" type="submit">로그인</button>button>
+            </form>form>
+            <div class="login__links">
+                    <a href="#">계정 찾기</a>a>
+                    <span>|</span>
+                    <a href="#">비밀번호 재설정</a>a>
+                    <span>|</span>
+                    <a href="#">회원가입</a>a>
+            </div>div>
+      </div>div>
+  </body>
+</html>html>
+</span></span>
+  </body></title>
+    </head>
