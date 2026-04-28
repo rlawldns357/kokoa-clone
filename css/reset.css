@@ -1,0 +1,22 @@
+html,
+body,
+a,
+form,
+input,
+button,
+ul,
+li,
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    text-decoration: none;
+    color: inherit;
+    list-style: none;
+    box-sizing: border-box;
+}
